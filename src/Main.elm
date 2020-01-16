@@ -20,10 +20,6 @@ parseUserNumber text =
             0
 
 
-add a b =
-    a + b
-
-
 type Messages
     = ClickedAdd
     | ChangedAddText String
